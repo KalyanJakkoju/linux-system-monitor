@@ -1,4 +1,10 @@
 build/
-.cache/
+build-wsl/
 *.o
 *.a
+*.so
+*.exe
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
